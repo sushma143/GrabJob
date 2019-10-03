@@ -1,0 +1,36 @@
+#body{
+    background-color: #24ada0;
+}
+/******************** nav bar css ************************************/
+#nav1{
+    text-align: center;
+    padding: 8px;
+}
+#nav1 img{
+    border-radius: 50%;
+}
+#nav li a{
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: white;
+}
+#nav li a:hover{
+  color: #090c63;
+    display:inline;
+    font-family: inherit;
+    font-weight: 900;
+    font-size: 16px;
+    background-color: #24ada0;
+}
+#nav li span{
+    color: #0a043b;
+}
+.container1{
+    background-image: url("/img/f1.jpg");
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: cover;
+    opacity:0.1;
+}
+
